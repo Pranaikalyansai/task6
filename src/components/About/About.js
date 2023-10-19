@@ -35,7 +35,7 @@ function About() {
             
             className="about-img circular-image"
           >
-            <img src={Img} alt="about" className="img-fluid rounded-circle" />
+           
           </Col>
         </Row>
         <h1 className="project-heading">
